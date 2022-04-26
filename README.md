@@ -1,7 +1,7 @@
 # DETR_demo
 discription 
 Lets see the pridiction first: 
-
+![image](https://github.com/Younai2021/DETR_demo/image/aeroplanes.jpg)
 pridict(
 This is my own implement fo DETR_demo 
 Notice: the training process is not included in this implement 
