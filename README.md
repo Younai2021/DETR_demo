@@ -16,8 +16,8 @@ __Notice__: the training process is not included in this implement
 Have fun with my demo code! ^_^
 
 ## List of object detection models 
-- [x] DETR 
-- [x] ViT
+✅ DETR 
+✅ ViT
 ## Future plans
 - [ ] DINO
 
