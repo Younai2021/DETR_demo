@@ -7,6 +7,7 @@ __Notice__: the training process is not included in this implement
 The original image
 
 ![original image](/images/aeroplanes.jpg)  
+<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" />
 
 The prediction
 ![](/images/predict.png)
@@ -18,8 +19,12 @@ The prediction
 3, You can run the code directly through the `predict.py`  
 Have fun with my demo code! ^_^
 
-## Object detection models
+## List of object detection models 
 - [x] DETR 
 - [x] ViT
 ## Future plans
 - [ ] DINO
+
+## Notes
+Please feel free to ask me any questions about this repository  
+QQ: 2285421427
